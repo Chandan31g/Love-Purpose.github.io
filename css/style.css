@@ -1,7 +1,7 @@
 body {
-    background-color: #1C1E13;
+    background-color: white;
     font-family: "Georgia",Times New Roman,Times,serif;
-    color: white;
+    color: black;
     margin: 0;
     margin-left: 50px;
     margin-right: 50px;
@@ -9,13 +9,13 @@ body {
 }
 
 header {
-	background-color:#1C1E13;
+	background-color:white;
       // background-image: url(../img/love__purpose_logo.jpg);
        
 
 h1 {
 	color: 
-  white;
+  black;
 	font-size: 28px;
 	text-align: center;
     padding: 20px;
@@ -67,7 +67,7 @@ li {
 li a {
   display: block;
   color: 
-  #E1C152;
+  white;
   text-align: center;
   padding: 10px 12px;
   text-decoration: none;
